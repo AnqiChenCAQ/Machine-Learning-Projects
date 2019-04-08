@@ -4,5 +4,7 @@ Explorations of fundamental data visualization, machine learning concepts and te
 1. Wine Quality Prediction:
 Predict Portuguese white Vinho Verde wines' quality based on 11 physiochemical and sensory variables by running a multilinear regression model on 4898 samples. 
 
+2. Bike Sharing Demand Prediction:
 
+3. Heart Disease Prediction: 
         
