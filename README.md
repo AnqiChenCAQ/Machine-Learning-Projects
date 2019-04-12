@@ -13,4 +13,4 @@ Predict Capital Bikeshare's count of rents based on 14 independent variables usi
 Predict the presence of heart disease in the patient with 14 attributes using support vector machine on data from three hospital systems.
         
 4. Poker Hand Prediction:
-Predict the Poker Hand of 5 cards drawn from a standard deck of 52 with K-Means Clustering.
+Predict the Poker Hand of 5 cards drawn from a standard deck of 52 with K-means clustering.
