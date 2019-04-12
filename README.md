@@ -1,4 +1,4 @@
-# Machine-Learning-Projects Part I. Data Analysis and Visualization
+# Machine Learning Projects Part I. Data Analysis and Visualization
 Explorations of fundamental machine learning concepts and techniques
 
 Models used: Multiple Linear Regression, Random Forest Regerssion, Support Vector Machine, K-Means Clustering
