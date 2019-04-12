@@ -2,6 +2,7 @@
 Explorations of fundamental machine learning concepts and techniques
 
 Models used: Multiple Linear Regression, Random Forest Regerssion, Support Vector Machine, K-Means Clustering
+
 Tools used: scikit-learn, pandas, NumPy, StatsModels, seaborn, missingno, Matplotlib
 
 1. Wine Quality Prediction:
