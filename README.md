@@ -16,3 +16,6 @@ Predict the presence of heart disease in the patient with 14 attributes using su
         
 4. Poker Hand Prediction:
 Predict the Poker Hand of 5 cards drawn from a standard deck of 52 with K-means clustering.
+
+5. Buying Behavior
+Analyze and display the variation in different types of customers a wholesale distributor interacts with hierarchical clustering.
