@@ -3,7 +3,7 @@ Explorations of fundamental machine learning concepts and techniques
 
 Models used: Multiple Linear Regression, Random Forest Regerssion, Support Vector Machine, K-Means Clustering
 
-Tools used: scikit-learn, pandas, NumPy, StatsModels, seaborn, missingno, Matplotlib
+Tools used: scikit-learn, pandas, NumPy, StatsModels, seaborn, missingno, Matplotlib, SciPy
 
 1. Wine Quality Prediction:
 Predict Portuguese white Vinho Verde wines' quality based on 11 physiochemical and sensory variables by running a multilinear regression model on 4898 samples. 
